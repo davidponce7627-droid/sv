@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer utilities {
+  @media print {
+    header,
+    nav,
+    .no-print {
+      display: none !important;
+    }
+
+    body {
+      background: white !important;
+      color: black !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+
+    #print-carnets-container {
+      display: block !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+
+    .break-inside-avoid {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+  }
+}

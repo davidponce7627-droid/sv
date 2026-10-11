@@ -1,0 +1,29 @@
+{
+  "students": [],
+  "attendances": [
+    {
+      "id": "att_1791661794636_ieed",
+      "fechaHora": "2026-10-10T19:49:54.629Z",
+      "hora": "01:49:54 p. m.",
+      "fecha": "2026-10-10",
+      "codigo": "EST000123",
+      "nombre": "NO REGISTRADO",
+      "anio": "",
+      "especialidad": "",
+      "seccion": "",
+      "resultado": "CODIGO_DESCONOCIDO_O_INACTIVO",
+      "origen": "Test-Hardware-Hub"
+    }
+  ],
+  "settings": {
+    "nombreInstituto": "Instituto Nacional Jose Simeon Cañas",
+    "lemaInstituto": "Ciencia, Tecnología y Futuro",
+    "colorPrincipal": "#1E40AF",
+    "colorFondo": "#EAF5F8",
+    "deviceKey": "ARDUINODEVST",
+    "hookSecret": "TELEGRAM_HOOK_SECRET_XYZ",
+    "botToken": "7341384891:AAFiJew0Iljmv4oYF3agZ5AuK-Hbm2XFr98",
+    "adminIds": "5466915332",
+    "duplicadoVentanaSegundos": 60
+  }
+}

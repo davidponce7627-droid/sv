@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Asistencia Estudiantil Arduino Uno",
+  "description": "Control escolar de asistencia en tiempo real mediante escáner de código de barras con Arduino Uno, módulo WiFi ESP-01, credenciales estudiantiles y bot de notificaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
